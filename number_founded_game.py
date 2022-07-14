@@ -6,15 +6,15 @@ import random
 #hak bilgisini kullanıcıdan alın ve her soru belirtilen can sayısı üzerinden hesaplansın
 
 
-deger=random.randint(1,10)
+deger=random.randint(1,100)
 hak=int(input("KAÇ HAKKINIZ OLSUN İSTERSİNİZ?"))
 puan=100
-
+deneme=hak
 oyna=int(input("sayi icin bir tahmin yap:"))
 sayac=1
 while sayac<=hak:
     sayac+=1
-    
+    puan=puan-(puan/hak)
     if deger>oyna:
         print("Yukari: ")
         oyna=int(input("deger girin:"))
@@ -27,4 +27,4 @@ while sayac<=hak:
         print("Puanın: {}".format(puan))
     else:
         print("Birşeyler hatali olmali")
-    puan=puan-(puan/hak)
+    
