@@ -22,7 +22,7 @@ def faktoriyel(sayi):
 print(faktoriyel(5))
 
 
-girilen sayı ile 100 arasındaki sayıların toplamını yazdıran rekurdif ifade
+# girilen sayı ile 100 arasındaki sayıların toplamını yazdıran rekurdif ifade
 def topla(sayi):
     if sayi==100:
         return 100
