@@ -1,0 +1,5 @@
+1-yakup  aktar--  Ogrencinin Not bilgileri: 50-90-70
+2-fayik veznedaroglu--  Ogrencinin Not bilgileri: 70-90-80
+1-fayik veznedaroglu--  Ogrencinin Not bilgileri: 60-670-0
+2-ecem veznedaroglu demir--  Ogrencinin Not bilgileri: 50-60-70
+3-mustafa veznedaroglu demir--  Ogrencinin Not bilgileri: 50-80-70
