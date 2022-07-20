@@ -6,7 +6,7 @@
 # print(next(iterator))
 # print(next(iterator))
 # print(next(iterator))
-# print(next(iterator))
+# print(next(iterator))for döngüsü kullanmaya gerek kalmadan liste içerisinde dönmemize yarayacaktır.
 # print(next(iterator))   
 # # print(next(iterator))
 
